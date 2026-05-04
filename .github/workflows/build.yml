@@ -16,4 +16,4 @@ jobs:
         with:
           token: ${{ secrets.t }}
           event-type: update
-          repository: PenguinMod/PenguinMod-Gui
+          repository: GaiaMod-Main/gaiamod-main.github.io
