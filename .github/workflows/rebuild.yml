@@ -16,9 +16,6 @@ concurrency:
   group: "pages"
 
 jobs:
- deploy:
-  environment:
-    name: github-pages
    rebuild:
     concurrency: ci-${{ github.ref }} # Recommended if you intend to make multiple deployments in quick succession.
     runs-on: ubuntu-22.04
