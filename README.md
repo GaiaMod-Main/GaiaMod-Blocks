@@ -1,4 +1,4 @@
-# PenguinMod-Blocks
+# GaiaMod-Blocks
 
 <!-- ## Playgrounds
 
